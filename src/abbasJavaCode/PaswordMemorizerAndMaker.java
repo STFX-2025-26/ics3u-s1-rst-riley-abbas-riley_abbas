@@ -69,7 +69,7 @@ public class PaswordMemorizerAndMaker {
 		JButton btnGeussPassword = new JButton("Geuss Password");
 		btnGeussPassword.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-			
+			// as
 			}
 		});
 		btnGeussPassword.setBounds(297, 255, 170, 33);
